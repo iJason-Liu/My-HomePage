@@ -1,0 +1,100 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4492697 */
+	font-display: auto;
+  src: url('//at.alicdn.com/t/c/font_4492697_bekbkuvq1qq.woff2?t=1712051767497') format('woff2'),
+         url('//at.alicdn.com/t/c/font_4492697_bekbkuvq1qq.woff?t=1712051767497') format('woff'),
+         url('//at.alicdn.com/t/c/font_4492697_bekbkuvq1qq.ttf?t=1712051767497') format('truetype');
+}
+
+.icon {
+	display: block;
+	width: 1.5em;
+	height: 1.5em;
+	margin: 0 auto;
+	fill: currentColor;
+	font-family: 'iconfont' !important;
+	font-size: inherit;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-aixin:before {
+  content: "\e604";
+}
+
+.icon-girl:before {
+  content: "\e602";
+}
+
+.icon-bms:before {
+  content: "\e671";
+}
+
+.icon-weizhi:before {
+  content: "\e62a";
+}
+
+.icon-position:before {
+  content: "\e60c";
+}
+
+.icon-bokeyuan:before {
+  content: "\e603";
+}
+
+.icon-linggan:before {
+  content: "\e670";
+}
+
+.icon-lingying:before {
+  content: "\ee48";
+}
+
+.icon-email:before {
+  content: "\e856";
+}
+
+.icon-weibo:before {
+  content: "\e600";
+}
+
+.icon-weixin:before {
+  content: "\e601";
+}
+
+.icon-smile:before {
+  content: "\e797";
+}
+
+.icon-github:before {
+  content: "\e607";
+}
+
+.icon-picture:before {
+  content: "\e6e9";
+}
+
+.icon-instagram:before {
+  content: "\e87f";
+}
+
+.icon-QQ:before {
+  content: "\e882";
+}
+
+.icon-twitter:before {
+  content: "\e883";
+}
+
+.icon-other:before {
+  content: "\e60b";
+}
+
+.icon-zhifeiji:before {
+  content: "\e61a";
+}
+
+.icon-drive:before {
+  content: "\e65f";
+}

@@ -1,0 +1,50 @@
+{
+	"head": {
+		"title": "小新的奇妙空间",
+		"description": "Author:Jason Liu,Category:Personal navigation HomePage",
+		"favicon": "favicon.png"
+	},
+	"intro": {
+		"title": "Jason Liu",
+		"subtitle": "Front back left right end dev engineer",
+		"enter": "enter",
+		"supportAuthor": false,
+		"background": true
+	},
+	"main": {
+		"name": "Jason Liu",
+		"signature": "Code & Input & Output & Think",
+		"avatar": {
+			"link": "assets/avatar1.PNG",
+			"height": "100",
+			"width": "100"
+		},
+		"ul": {
+			"first": {
+				"href": "https://lib.crayon.vip",
+				"icon": "bms",
+				"text": "BMS"
+			},
+			"second": {
+				"href": "http://swz.crayon.vip",
+				"icon": "aixin",
+				"text": "Swz"
+			},
+			"third": {
+				"href": "https://alist.crayon.vip",
+				"icon": "drive",
+				"text": "Alist"
+			},
+			"fourth": {
+				"href": "https://github.com/iJason-Liu",
+				"icon": "github",
+				"text": "Github"
+			},
+			"fifth": {
+				"href": "mailto:Crayon996@gmail.com",
+				"icon": "email",
+				"text": "Email"
+			}
+		}
+	}
+}
